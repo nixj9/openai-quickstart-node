@@ -1,0 +1,3 @@
+$cd openai-quickstart-node
+$npm install
+$cp.env.example.env
